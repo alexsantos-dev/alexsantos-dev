@@ -5,9 +5,9 @@
 
 - 📫 How to reach me:
 
-discord: alexsantosdev
-
-email: alexsantos.web.developer@gmail.com
+- 🤖 Discord: alexsantosdev
+  
+- 📧 email: alexsantos.web.developer@gmail.com
 
 <!---
 alexsantos-dev/alexsantos-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
