@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexsantos-dev
 - 👀 I’m interested in web development
-- 🌱 I’m currently learn HTML, CSS and JavaScript
+- 🌱 I’m currently learn React
 - 💞️ I’m looking to collaborate on web projects
 
 - 📫 How to reach me:
