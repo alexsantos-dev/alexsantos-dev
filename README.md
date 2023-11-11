@@ -1,10 +1,9 @@
 # Alex Santos - FullStack Developer 🧑‍💻
 
-## Sobre mim
-Sou um Desenvolvedor Full Stack apaixonado por criar experiências online incríveis de ponta a ponta. Atualmente, estou aprimorando minhas habilidades com a stack MERN (MongoDB, Express.js, React e Node.js). Comprometido em entregar soluções de alta qualidade e sempre em busca de aprender e evoluir na área de desenvolvimento web.
+## About Me
+I am a Full Stack Developer passionate about creating incredible online experiences from end to end. Currently, I am honing my skills with the MERN stack (MongoDB, Express.js, React, and Node.js). Committed to delivering high-quality solutions, I am always seeking opportunities to learn and evolve in the field of web development.
 
-## Habilidades e Tecnologias
-
+## Technologies
 <table>
   <tbody>
     <tr>
@@ -95,7 +94,7 @@ Sou um Desenvolvedor Full Stack apaixonado por criar experiências online incrí
   </tbody>
 </table>
 
-## Contato
+## Contact
 
 <p align="left">
 <a href="https://linkedin.com/in/thicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" /></a>
