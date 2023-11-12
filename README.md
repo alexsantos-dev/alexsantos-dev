@@ -1,6 +1,6 @@
 <h1 align="center"><Δlex $antos - FullStack Developer - Δ$></h1>  
 
-<div align="center"><img width="70%" height="60%" src="https://i.imgur.com/kEBO7hW.png"/></div>
+<div align="center"><img width="70%" height="60%" src="https://i.imgur.com/12MoVbg.png"/></div>
 <hr/>
 
 <div align="center">
