@@ -1,7 +1,7 @@
 # Alex Santos - FullStack Developer 👋
 
-![My_Stats](https://github-readme-stats.vercel.app/api?username=alexsantos-dev&show_icons=true&theme=blueberry&card_width=300px&line_height=28&locale=pt-br&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsantos-dev&layout=donut&theme=blueberry&card_width=300px&locale=pt-br&bg_color=00000000)
+![My_Stats](https://github-readme-stats.vercel.app/api?username=alexsantos-dev&show_icons=true&theme=radical&card_width=300px&line_height=28&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsantos-dev&layout=donut&theme=radical&card_width=300px&locale=pt-br)
 
 ## Sobre mim
 Sou um Desenvolvedor Full Stack apaixonado por criar experiências online incríveis de ponta a ponta. Atualmente, estou aprimorando minhas habilidades com a stack MERN (MongoDB, Express.js, React e Node.js). Comprometido em entregar soluções de alta qualidade e sempre em busca de aprender e evoluir na área de desenvolvimento web.
@@ -13,7 +13,7 @@ Sou um Desenvolvedor Full Stack apaixonado por criar experiências online incrí
     <tr>
       <td>
         <img
-          src="https://img.icons8.com/color/48/000000/html-5.png"
+          src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"
           height="40"
           alt="HTML"
         />
@@ -21,7 +21,7 @@ Sou um Desenvolvedor Full Stack apaixonado por criar experiências online incrí
       </td>
       <td>
         <img
-          src="https://img.icons8.com/color/48/000000/css3.png"
+          src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"
           height="40"
           alt="CSS"
         />
@@ -29,7 +29,7 @@ Sou um Desenvolvedor Full Stack apaixonado por criar experiências online incrí
       </td>
       <td>
         <img
-          src="https://img.icons8.com/color/48/000000/javascript.png"
+          src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"
           height="40"
           alt="JavaScript"
         />
@@ -37,7 +37,7 @@ Sou um Desenvolvedor Full Stack apaixonado por criar experiências online incrí
       </td>
       <td>
         <img
-          src="https://img.icons8.com/color/48/000000/wordpress.png"
+          src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png"
           height="40"
           alt="Wordpress"
         />
@@ -45,7 +45,7 @@ Sou um Desenvolvedor Full Stack apaixonado por criar experiências online incrí
       </td>
       <td>
         <img
-          src="https://img.icons8.com/plasticine/48/000000/react.png"
+          src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"
           alt="React"
           width="40"
           height="40"
@@ -56,7 +56,7 @@ Sou um Desenvolvedor Full Stack apaixonado por criar experiências online incrí
     <tr>
       <td>
         <img
-          src="https://img.icons8.com/color/48/000000/nodejs.png"
+          src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"
           height="40"
           alt="Node.js"
         />
@@ -72,7 +72,7 @@ Sou um Desenvolvedor Full Stack apaixonado por criar experiências online incrí
       </td>
       <td>
         <img
-          src="https://img.icons8.com/color/48/000000/mongodb.png"
+          src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"
           height="40"
           alt="MongoDB"
         />
@@ -80,7 +80,7 @@ Sou um Desenvolvedor Full Stack apaixonado por criar experiências online incrí
       </td>
       <td>
         <img
-          src="https://img.icons8.com/doodle/48/000000/api.png"
+          src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"
           height="40"
           alt="API Rest"
         />
@@ -88,7 +88,7 @@ Sou um Desenvolvedor Full Stack apaixonado por criar experiências online incrí
       </td>
       <td>
         <img
-          src="https://img.icons8.com/color/48/000000/git.png"
+          src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
           height="40"
           alt="Git"
         />
