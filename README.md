@@ -117,4 +117,4 @@ Me chamo Alex Santos, tenho 19 anos e sou Desenvolvedor Full Stack. Sou Apaixona
 </a>
 </p>
 
-![snake gif](https://github.com/alexsantos-dev/alexsantos-dev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/alexsantos-dev/alexsantos-dev/blob/output/github-contribution-grid-snake.gif)
