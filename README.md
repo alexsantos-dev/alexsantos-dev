@@ -110,4 +110,4 @@ Me chamo Alex Santos, tenho 19 anos e sou Desenvolvedor Full Stack. Sou Apaixona
 </a>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexsantos-dev&repo=github-readme-stats)](https://github.com/alexsantos-dev/alexsantos-dev)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
