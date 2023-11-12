@@ -1,9 +1,10 @@
-# Alex Santos - FullStack Developer 🧑‍💻
+# Alex Santos - FullStack Developer 👋
 
-## About Me
-I am a Full Stack Developer passionate about creating incredible online experiences from end to end. Currently, I am honing my skills with the MERN stack (MongoDB, Express.js, React, and Node.js). Committed to delivering high-quality solutions, I am always seeking opportunities to learn and evolve in the field of web development.
+## Sobre mim
+Sou um Desenvolvedor Full Stack apaixonado por criar experiências online incríveis de ponta a ponta. Atualmente, estou aprimorando minhas habilidades com a stack MERN (MongoDB, Express.js, React e Node.js). Comprometido em entregar soluções de alta qualidade e sempre em busca de aprender e evoluir na área de desenvolvimento web.
 
-## Technologies
+## Habilidades e Tecnologias
+
 <table>
   <tbody>
     <tr>
@@ -94,11 +95,19 @@ I am a Full Stack Developer passionate about creating incredible online experien
   </tbody>
 </table>
 
-## Contact
+## Contato
 
 <p align="left">
-<a href="https://linkedin.com/in/thicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" /></a>
-<a href="https://instagram.com/thi.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thi.code" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@thicode.channel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thicode.channel" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/thicode" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/thi.code" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thi.code" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/@thicode.channel" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thicode.channel" height="30" width="40" />
+  </a>
 </p>
-<hr/>
+
+---
+
