@@ -1,7 +1,7 @@
 # Alex Santos - FullStack Developer 👋
 
-![My_Stats](https://github-readme-stats.vercel.app/api?username=alexsantos-dev&show_icons=true&theme=buefy&card_width=300px&line_height=28&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsantos-dev&layout=donut&theme=buefy&card_width=300px&locale=pt-br)
+![My_Stats](https://github-readme-stats.vercel.app/api?username=alexsantos-dev&show_icons=true&theme=buefy&card_width=300px&line_height=28&locale=pt-br&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsantos-dev&layout=donut&theme=buefy&card_width=300px&locale=pt-br&bg_color=00000000)
 
 ## Sobre mim
 Sou um Desenvolvedor Full Stack apaixonado por criar experiências online incríveis de ponta a ponta. Atualmente, estou aprimorando minhas habilidades com a stack MERN (MongoDB, Express.js, React e Node.js). Comprometido em entregar soluções de alta qualidade e sempre em busca de aprender e evoluir na área de desenvolvimento web.
