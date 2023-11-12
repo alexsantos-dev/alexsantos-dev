@@ -64,7 +64,7 @@ Sou um Desenvolvedor Full Stack apaixonado por criar experiências online incrí
       </td>
       <td>
         <img
-          src="https://img.icons8.com/color/48/000000/express.png"
+          src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"
           height="40"
           alt="Express.js"
         />
@@ -72,7 +72,7 @@ Sou um Desenvolvedor Full Stack apaixonado por criar experiências online incrí
       </td>
       <td>
         <img
-          src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"
+          src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"
           height="40"
           alt="MongoDB"
         />
@@ -99,18 +99,10 @@ Sou um Desenvolvedor Full Stack apaixonado por criar experiências online incrí
 </table>
 
 ## Contato
-
 <p align="left">
-  <a href="" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" />
-  </a>
-  <a href="" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thi.code" height="30" width="40" />
-  </a>
-  <a href="" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thicode.channel" height="30" width="40" />
-  </a>
+<a href="https://www.linkedin.com/in/alex-santos-b020b5296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/linkedin/linkedin.svg" alt="Alex Santos" height="30" width="40"/></a>
+<a href="https://discord.com/invite/pKphNtVK" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/discord/discord.svg" alt="@alexsantos-dev" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61551060350592" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/facebook/facebook.svg" alt="Alex Santos" height="30" width="40" />
+</a>
 </p>
-
----
 
