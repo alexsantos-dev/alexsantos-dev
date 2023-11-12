@@ -1,4 +1,4 @@
-<h1 align="center"><Δlex $antos - FullStack Developer - Δ$></h1>  
+<h1 align="center"><Δlex Santos - FullStack Developer - ΔS></h1>  
 
 <div align="center"><img width="70%" height="60%" src="https://i.imgur.com/12MoVbg.png"/></div>
 <hr/>
