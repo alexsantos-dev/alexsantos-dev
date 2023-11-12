@@ -1,4 +1,5 @@
- # <Δlex $antos - FullStack Developer - Δ$>
+# <Δlex $antos - FullStack Developer - Δ$> 
+<img src="https://i.imgur.com/GiYcbP1.gif">
 
 <a href="https://github.com/alexsantos/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsantos-dev&show_icons=true&theme=radical&card_width=300px&line_height=28&locale=pt-br&custom_title=Estatísticas&rank_icon=github"/>
