@@ -1,6 +1,6 @@
 # Alex Santos - FullStack Developer 👋
 
-![Alex Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsantos-dev&show_icons=true&theme=trasnparent&card_width=300px&line_height=28&locale=pt-br)
+![Alex Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsantos-dev&show_icons=true&theme=transparent&card_width=300px&line_height=28&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsantos-dev&layout=donut&theme=transparent&card_width=300px&locale=pt-br)
 
 ## Sobre mim
