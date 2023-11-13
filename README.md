@@ -1,14 +1,14 @@
-<h1 align="center"><Δlex Santos - FullStack Developer - ΔS></h1>  
+<h1 align="center">Δlex Santos - FullStack Developer - ΔS</h1>  
 
 <div align="center"><img width="70%" height="60%" src="https://i.imgur.com/12MoVbg.png"/></div>
 <hr/>
 
 <div align="center">
   <a href="https://github.com/alexsantos/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsantos-dev&show_icons=true&theme=radical&card_width=400px&line_height=28&locale=pt-br&custom_title=Estatísticas&rank_icon=github"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsantos-dev&show_icons=true&theme=radical&card_width=400px&line_height=28&locale=pt-br&custom_title=Estatísticas&rank_icon=github&border_radius=10px"/>
   </a>
   <a href="https://github.com/alexsantos/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsantos-dev&layout=donut&theme=radical&card_width=300px&locale=pt-br"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsantos-dev&layout=donut&theme=radical&card_width=300px&locale=pt-br&border_radius=10px"/>
   </a>
 </div>
 
@@ -110,6 +110,7 @@ Me chamo Alex Santos, tenho 19 anos e sou Desenvolvedor Full Stack. Sou Apaixona
 </table>
 
 ## Contato
+
 <p align="left">
 <a href="https://www.linkedin.com/in/alex-santos-b020b5296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/linkedin/linkedin.svg" alt="Alex Santos" height="30" width="40"/></a>
 <a href="https://discord.com/invite/pKphNtVK" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/discord/discord.svg" alt="@alexsantos-dev" height="30" width="40" /></a>
