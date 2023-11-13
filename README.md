@@ -117,5 +117,3 @@ Me chamo Alex Santos, tenho 19 anos e sou Desenvolvedor Full Stack. Sou Apaixona
 <a href="https://www.facebook.com/profile.php?id=61551060350592" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/facebook/facebook.svg" alt="Alex Santos" height="30" width="40" />
 </a>
 </p>
-
-![snake gif](https://github.com/alexsantos-dev/alexsantos-dev/blob/output/github-contribution-grid-snake.svg)
