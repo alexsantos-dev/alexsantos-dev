@@ -15,7 +15,7 @@
 ***
 
 ## Sobre mim
-Me chamo Alex Santos, tenho 19 anos e sou Desenvolvedor Full Stack. Sou Apaixonado em criar experiências online incríveis de ponta a ponta e atualmente, estou aprimorando minhas habilidades com a stack MERN (MongoDB, Express.js, React e Node.js). Comprometido em entregar soluções de alta qualidade e sempre em busca de aprender e evoluir na área de desenvolvimento web.
+Me chamo Alex Santos, tenho 19 anos e sou Desenvolvedor Full Stack. Sou apaixonado em criar experiências online incríveis de ponta a ponta e atualmente, estou aprimorando minhas habilidades com a stack MERN (MongoDB, Express.js, React e Node.js). Comprometido em entregar soluções de alta qualidade e sempre em busca de aprender e evoluir na área de desenvolvimento web.
 
 ##Tecnologias
 
