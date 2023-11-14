@@ -1,5 +1,5 @@
-<h1 align="center">Δlex Santos - FullStack Developer - ΔS</h1>  
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=545454&size=35&center=true&vCenter=true&width=1000&lines=Δlex+Santos;Desenvolvedor+FullStack;Seja+bem+vindo!+)](https://git.io/typing-svg)
+<hr/>
 <div align="center"><img width="70%" height="60%" src="https://i.imgur.com/12MoVbg.png"/></div>
 <hr/>
 
