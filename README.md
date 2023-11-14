@@ -6,7 +6,7 @@
 
 
 <hr/>
-<div align="center"><img width="70%" height="60%" src="https://i.imgur.com/12MoVbg.png"/></div>
+<div align="center"><img width="70%" height="60%" src="https://i.imgur.com/Liz79ub.png"/></div>
 <hr/>
 
 <div align="center">
