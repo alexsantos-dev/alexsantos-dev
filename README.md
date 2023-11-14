@@ -5,10 +5,10 @@
 
 <div align="center">
   <a href="https://github.com/alexsantos/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsantos-dev&show_icons=true&theme=transparent&card_width=500px&line_height=28&locale=pt-br&custom_title=Estatísticas&rank_icon=github&border_radius=10px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsantos-dev&show_icons=true&theme=transparent&line_height=28&locale=pt-br&custom_title=Estatísticas&rank_icon=github&border_radius=10px"/>
   </a>
   <a href="https://github.com/alexsantos/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsantos-dev&layout=donut&theme=transparent&card_width=300px&locale=pt-br&border_radius=10px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsantos-dev&layout=donut&theme=transparent&locale=pt-br&border_radius=10px"/>
   </a>
 </div>
 
