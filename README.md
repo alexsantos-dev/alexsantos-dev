@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=545454&size=40&center=true&vCenter=true&width=1000&lines=Δlex+Santos;Desenvolvedor+FullStack;Seja+bem+vindo!+)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=000000&size=40&center=true&vCenter=true&width=1000&lines=Δlex+Santos+-+ΔS;Desenvolvedor+FullStack;Bem+vindo(a)+ao+meu+Github!">
+  </a>
+</div>
+
+
 <hr/>
 <div align="center"><img width="70%" height="60%" src="https://i.imgur.com/12MoVbg.png"/></div>
 <hr/>
