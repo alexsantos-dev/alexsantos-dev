@@ -6,8 +6,6 @@
 
 
 <hr/>
-<div align="center"><img width="70%" height="60%" src="https://i.imgur.com/Liz79ub.png"/></div>
-<hr/>
 
 <div align="center">
   <a href="https://github.com/alexsantos/github-readme-stats">
