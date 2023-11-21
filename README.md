@@ -19,7 +19,7 @@
 ***
 
 ## Sobre mim
-Me chamo Alex, tenho 19 anos e sou Desenvolvedor web. Tenho experiência em React, Javascript, Styled Components, JWT, Express.js, Node.js, MongoDB, CSS e HTML. Apaixonado por criar aplicações web de ponta a ponta e atualmente estou aprimorando minhas habilidades com a stack MERN (MongoDB, Express.js, React e Node.js). Comprometido em entregar soluções de alta qualidade com foco em segurança e experiência do usuário. Estou em constante busca de aprender e evoluir na área de desenvolvimento web.
+Me chamo Alex, tenho 19 anos e sou Desenvolvedor Web Fullstack. Tenho experiência em React, Javascript, Styled Components, JWT, Express.js, Node.js, MongoDB, CSS e HTML. Apaixonado por criar aplicações web de ponta a ponta e atualmente estou aprimorando minhas habilidades com a stack MERN (MongoDB, Express.js, React e Node.js). Comprometido em entregar soluções de alta qualidade com foco em segurança e experiência do usuário. Estou em constante busca de aprender e evoluir na área de desenvolvimento web.
 
 ## Tecnologias
 
