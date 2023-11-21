@@ -121,3 +121,5 @@ Me chamo Alex, tenho 19 anos e sou Desenvolvedor Web Fullstack. Apaixonado por c
 <a href="https://www.facebook.com/profile.php?id=61551060350592" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/facebook/facebook.svg" alt="Alex Santos" height="30" width="40" />
 </a>
 </p>
+
+![snake gif](https://github.com/elaini-carlete/elaini-carlete/blob/output/github-contribution-grid-snake.svg)
