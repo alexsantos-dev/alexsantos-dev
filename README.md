@@ -122,4 +122,4 @@ Me chamo Alex, tenho 19 anos e sou Desenvolvedor Web Fullstack. Apaixonado por c
 </a>
 </p>
 
-![snake gif](https://github.com/elaini-carlete/elaini-carlete/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/alexsantos-dev/alexsantos-dev/blob/output/github-contribution-grid-snake.svg)
