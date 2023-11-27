@@ -113,13 +113,4 @@ Me chamo Alex, tenho 19 anos e sou Desenvolvedor Web Fullstack. Apaixonado por c
   </tbody>
 </table>
 
-## Contato
-
-<p align="left">
-<a href="https://www.linkedin.com/in/alex-santos-b020b5296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/linkedin/linkedin.svg" alt="Alex Santos" height="30" width="40"/></a>
-<a href="https://discord.com/invite/pKphNtVK" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/discord/discord.svg" alt="@alexsantos-dev" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=61551060350592" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/facebook/facebook.svg" alt="Alex Santos" height="30" width="40" />
-</a>
-</p>
-
 ![snake gif](https://github.com/alexsantos-dev/alexsantos-dev/blob/output/github-contribution-grid-snake.svg)
