@@ -1,7 +1,7 @@
 <img width=100% bottom=164px src="https://github.com/alexsantos-dev/github-assets/blob/main/profile/github-header-image(3).png"/>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=05DBF2&size=40&center=true&vCenter=true&width=1000&lines=Δlex+Santos+-+ΔS;Desenvolvedor+FullStack;Bem+vindo(a)+ao+meu+Github!">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=000000&size=40&center=true&vCenter=true&width=1000&lines=Δlex+Santos+-+ΔS;Backend+Developer;Welcome+to+my+Github!">
   </a>
 </div>
 
@@ -10,10 +10,10 @@
 
 <div align="center">
   <a href="https://github.com/alexsantos/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsantos-dev&show_icons=true&theme=transparent&line_height=28&locale=pt-br&custom_title=Estatísticas&rank_icon=github&border_radius=10px&title_color=05DBF2&card_width=100px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsantos-dev&show_icons=true&theme=transparent&line_height=28&locale=pt-br&custom_title=Estatísticas&rank_icon=github&border_radius=10px&title_color=000000&card_width=100px"/>
   </a>
   <a href="https://github.com/alexsantos/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsantos-dev&layout=donut&theme=transparent&locale=pt-br&border_radius=10px&title_color=05DBF2"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsantos-dev&layout=donut&theme=transparent&locale=pt-br&border_radius=10px&title_color=000000"/>
   </a>
 </div>
 
