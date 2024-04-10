@@ -8,15 +8,6 @@
 
 <hr/>
 
-<div align="center">
-  <a href="https://github.com/alexsantos/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsantos-dev&show_icons=true&theme=transparent&line_height=28&custom_title=Estatísticas&rank_icon=github&border_radius=10px&title_color=000000&card_width=100px"/>
-  </a>
-  <a href="https://github.com/alexsantos/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsantos-dev&layout=donut&theme=transparent&border_radius=10px&title_color=000000"/>
-  </a>
-</div>
-
 ***
 
 ## About me
@@ -149,5 +140,14 @@ Feel free to explore my repositories! 👨‍💻💻
     </tr>
   </tbody>
 </table>
+
+<div align="center">
+  <a href="https://github.com/alexsantos/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsantos-dev&show_icons=true&theme=transparent&line_height=28&custom_title=Estatísticas&rank_icon=github&border_radius=10px&title_color=000000&card_width=100px"/>
+  </a>
+  <a href="https://github.com/alexsantos/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsantos-dev&layout=donut&theme=transparent&border_radius=10px&title_color=000000"/>
+  </a>
+</div>
 
 ![snake gif](https://github.com/alexsantos-dev/alexsantos-dev/blob/output/github-contribution-grid-snake.svg)
