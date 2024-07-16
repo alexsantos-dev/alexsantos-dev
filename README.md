@@ -19,10 +19,10 @@ Feel free to explore my repositories! 👨‍💻💻
 
 ## Technologies
 ![Node](https://img.shields.io/badge/node-5FA04E?style=for-the-badge&logo=Node.js&logoColor=%235FA04E&labelColor=black)
+![React](https://img.shields.io/badge/React-f?style=for-the-badge&logo=React&logoColor=%2361DAFB&labelColor=%23000000&color=%2361DAFB)
+![Next](https://img.shields.io/badge/Next-f?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black&color=eaeaea)
 ![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=Express&logoColor=%23FFFFFF&labelColor=black&color=eaeaea)
 ![Nest](https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=Nestjs&logoColor=%23E0234E&labelColor=black&color=%23E0234E)
-![Next](https://img.shields.io/badge/Next-f?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black&color=eaeaea)
-![React](https://img.shields.io/badge/React-f?style=for-the-badge&logo=React&logoColor=%2361DAFB&labelColor=%23000000&color=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/Mysql-f?style=for-the-badge&logo=MySQL&logoColor=%234479A1&labelColor=%23000000&color=%234479A1)
 ![PostgreSQL](https://img.shields.io/badge/Postgresql-f?style=for-the-badge&logo=PostgreSQL&logoColor=%234169E1&labelColor=%23000000&color=%234169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-f?style=for-the-badge&logo=MongoDB&logoColor=%2347A248&labelColor=%23000000&color=%2347A248)
