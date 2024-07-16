@@ -1,145 +1,40 @@
-<img width=100% bottom=164px src="https://github.com/alexsantos-dev/github-assets/blob/main/profile/github-header-image(3)(1).png"/>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=000000&size=40&center=true&vCenter=true&width=1000&lines=Δlex+Santos+-+ΔS;Backend+Developer;Welcome+to+my+Github!">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=000000&size=40&center=true&vCenter=true&width=1000&lines=Δlex+Santos+-+ΔS;Full+stack+Developer;Welcome+to+my+Github!">
   </a>
 </div>
-
-
-<hr/>
 
 ***
 
 ## About me
-Hello, Alex here. I'm Brazilian, I'm 20 years old and I'm a backend web developer. Always focused on planning and delivering efficient solutions with a focus on software quality and cost reduction for my clients.
+Hello, Alex here. I'm Brazilian, I'm 20 years old and I'm a full stack web developer. Always focused on planning and delivering efficient solutions with a focus on software quality and cost reduction for my clients.
 
-Currently I have been improving my skills with Node, Docker, CI/CD (Continuous Integration and Continuous Delivery), automated tests and documentation with Swagger.
+Currently I have been improving my skills with Next, React Testing Library, Jest and Cypress.
 
 Feel free to explore my repositories! 👨‍💻💻
 
-## Technologies
+## Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-f?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=%23000000&color=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-f?style=for-the-badge&logo=TypeScript&logoColor=%233178C6&labelColor=%23000000&color=%233178C6)
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img
-          src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"
-          height="40"
-          alt="JavaScript"
-        />
-        <img width="12" /> JavaScript
-      </td>
-      <td>
-        <img
-          src="https://github.com/alexsantos-dev/github-assets/blob/main/readme/programing.png"
-          height="40"
-          alt="Node.js"
-        />
-        <img width="12" /> Node.js
-      </td>
-      <td>
-        <img
-          src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"
-          height="40"
-          alt="Express.js"
-        />
-        <img width="12" /> Express.js
-      </td>
-      <td>
-        <img
-          src="https://github.com/alexsantos-dev/github-assets/blob/main/readme/mysql.png"
-          height="40"
-          alt="Mysql"
-        />
-        <img width="12" /> Mysql
-      </td>
-      <td>
-        <img
-          src="https://github.com/alexsantos-dev/github-assets/blob/main/readme/database.png"
-          height="40"
-          alt="SQLite"
-        />
-        <img width="12" /> SQLite
-      </td>
-      <td>
-        <img
-          src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"
-          height="40"
-          alt="MongoDB"
-        />
-        <img width="12" /> MongoDB
-      </td>
-       <td>
-        <img
-          src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"
-          height="40"
-          alt="API Rest"
-        />
-        <img width="12" /> API Rest
-      </td>
-     </tr>
-    <tr>
-      <td>
-        <img
-          src="https://github.com/alexsantos-dev/github-assets/blob/main/readme/automated.png"
-          height="40"
-          alt="Tests"
-        />
-        <img width="12" /> Tests
-      </td>
-      <td>
-        <img
-          src="https://github.com/alexsantos-dev/github-assets/blob/main/readme/workflow.png"
-          height="40"
-          alt="CI/CD"
-        />
-        <img width="12" /> CI/CD
-      </td>
-      <td>
-        <img
-          src="https://github.com/alexsantos-dev/github-assets/blob/main/readme/social.png"
-          height="40"
-          alt="Docker"
-        />
-        <img width="12" /> Docker
-      </td>
-      <td>
-        <img
-          src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
-          height="40"
-          alt="Git"
-        />
-        <img width="12" /> Git
-      </td>
-       <td>
-        <img
-          src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"
-          alt="React"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> React
-      </td>
-      <td>
-        <img
-          src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"
-          height="40"
-          alt="HTML"
-        />
-        <img width="12" /> HTML
-      </td>
-      <td>
-        <img
-          src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"
-          height="40"
-          alt="CSS"
-        />
-        <img width="12" /> CSS
-      </td>
-    </tr>
-  </tbody>
-</table>
+## Technologies
+![Node](https://img.shields.io/badge/node-5FA04E?style=for-the-badge&logo=Node.js&logoColor=%235FA04E&labelColor=black)
+![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=Express&logoColor=%23FFFFFF&labelColor=black&color=eaeaea)
+![Nest](https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=Nestjs&logoColor=%23E0234E&labelColor=black&color=%23E0234E)
+![Next](https://img.shields.io/badge/Next-f?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black&color=eaeaea)
+![React](https://img.shields.io/badge/React-f?style=for-the-badge&logo=React&logoColor=%2361DAFB&labelColor=%23000000&color=%2361DAFB)
+![MySQL](https://img.shields.io/badge/Mysql-f?style=for-the-badge&logo=MySQL&logoColor=%234479A1&labelColor=%23000000&color=%234479A1)
+![PostgreSQL](https://img.shields.io/badge/Postgresql-f?style=for-the-badge&logo=PostgreSQL&logoColor=%234169E1&labelColor=%23000000&color=%234169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-f?style=for-the-badge&logo=MongoDB&logoColor=%2347A248&labelColor=%23000000&color=%2347A248)
+![SQLite](https://img.shields.io/badge/SQLite-f?style=for-the-badge&logo=SQLite&logoColor=%23003B57&labelColor=%23000000&color=%23003B57)
+![TypeORM](https://img.shields.io/badge/TypeORM-f?style=for-the-badge&logo=TypeORM&logoColor=%23FE0803&labelColor=%23000000&color=%23FE0803)
+![Sequelize](https://img.shields.io/badge/Sequelize-f?style=for-the-badge&logo=Sequelize&logoColor=%2352B0E7&labelColor=%23000000&color=%2352B0E7)
+![Prisma](https://img.shields.io/badge/Prisma-f?style=for-the-badge&logo=Prisma&logoColor=%232D3748&labelColor=%23000000&color=%232D3748)
+![Mongoose](https://img.shields.io/badge/Mongoose-f?style=for-the-badge&logo=Mongoose&logoColor=%23880000&labelColor=%23000000&color=%23880000)
+![Jest](https://img.shields.io/badge/Jest-f?style=for-the-badge&logo=Jest&logoColor=%23C21325&labelColor=%23000000&color=%23C21325)
+![Cypress](https://img.shields.io/badge/Cypress-f?style=for-the-badge&logo=Cypress&logoColor=%2369D3A7&labelColor=%23000000&color=%2369D3A7)
+![Git](https://img.shields.io/badge/Git-f?style=for-the-badge&logo=Git&logoColor=%23F05032&labelColor=%23000000&color=%23F05032)
+![Github Actions](https://img.shields.io/badge/Github%20Actions-f?style=for-the-badge&logo=Github%20Actions&logoColor=%232088FF&labelColor=%23000000&color=%232088FF)
 
 <div align="center">
   <a href="https://github.com/alexsantos/github-readme-stats">
