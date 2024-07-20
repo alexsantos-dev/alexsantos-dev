@@ -16,6 +16,7 @@ Feel free to explore my repositories! 👨‍💻💻
 ## Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-f?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=%23000000&color=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-f?style=for-the-badge&logo=TypeScript&logoColor=%233178C6&labelColor=%23000000&color=%233178C6)
+</br>
 
 ## Technologies
 ![Node](https://img.shields.io/badge/node-5FA04E?style=for-the-badge&logo=Node.js&logoColor=%235FA04E&labelColor=black)
@@ -35,14 +36,19 @@ Feel free to explore my repositories! 👨‍💻💻
 ![Cypress](https://img.shields.io/badge/Cypress-f?style=for-the-badge&logo=Cypress&logoColor=%2369D3A7&labelColor=%23000000&color=%2369D3A7)
 ![Git](https://img.shields.io/badge/Git-f?style=for-the-badge&logo=Git&logoColor=%23F05032&labelColor=%23000000&color=%23F05032)
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-f?style=for-the-badge&logo=Github%20Actions&logoColor=%232088FF&labelColor=%23000000&color=%232088FF)
+</br>
 
+## Statistics and Viewers
+
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/alexsantos-dev/count.svg" />
+ </p>
+ 
 <div align="center">
-  <a href="https://github.com/alexsantos/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsantos-dev&show_icons=true&theme=transparent&line_height=28&custom_title=Estatísticas&rank_icon=github&border_radius=10px&title_color=000000&card_width=100px"/>
-  </a>
-  <a href="https://github.com/alexsantos/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsantos-dev&layout=donut&theme=transparent&border_radius=10px&title_color=000000"/>
-  </a>
+  <a href="http://www.github.com/alexsantos-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexsantos-dev&stroke=2ea043&background=010326&ring=F24B4B&fire=7EF2E7&currStreakNum=white&currStreakLabel=7EF2E7&sideNums=white&sideLabels=7EF2E7&dates=A5C2A4&hide_border=true" /></a>
 </div>
+</br>
 
-![snake gif](https://github.com/alexsantos-dev/alexsantos-dev/blob/output/github-contribution-grid-snake.svg)
+</br>
+
+<!-- ![snake gif](https://github.com/alexsantos-dev/alexsantos-dev/blob/output/github-contribution-grid-snake.svg) -->
