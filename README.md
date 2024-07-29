@@ -1,11 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=000000&size=40&center=true&vCenter=true&width=1000&lines=Δlex+Santos+-+ΔS;Full+stack+Developer;Welcome+to+my+Github!">
-  </a>
-</div>
-
-***
-
 ## About me
 Hello, Alex here. I'm Brazilian, I'm 20 years old and I'm a full stack web developer. Always focused on planning and delivering efficient solutions with a focus on software quality and cost reduction for my clients.
 
