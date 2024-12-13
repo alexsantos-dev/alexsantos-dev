@@ -39,8 +39,3 @@ Feel free to explore my repositories! 👨‍💻💻
 <div align="center">
   <a href="http://www.github.com/alexsantos-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexsantos-dev&stroke=2ea043&background=010326&ring=F24B4B&fire=7EF2E7&currStreakNum=white&currStreakLabel=7EF2E7&sideNums=white&sideLabels=7EF2E7&dates=A5C2A4&hide_border=true" /></a>
 </div>
-</br>
-
-</br>
-
-<!-- ![snake gif](https://github.com/alexsantos-dev/alexsantos-dev/blob/output/github-contribution-grid-snake.svg) -->
