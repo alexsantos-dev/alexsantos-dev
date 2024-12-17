@@ -18,6 +18,11 @@ Cada projeto é desenvolvido com foco em impacto e inovação, refletindo uma vi
 </br>
 
 ## Tecnologias
+![Stripe](https://img.shields.io/badge/stripe-635BFF?style=for-the-badge&logo=Stripe&logoColor=%635BFF&labelColor=black)
+![DatoCMS](https://img.shields.io/badge/datocms-FF7751?style=for-the-badge&logo=DatoCMS&logoColor=%FF7751&labelColor=black)
+![Google-Authenticator](https://img.shields.io/badge/Google•Auth-4285F4?style=for-the-badge&logo=GoogleAuthenticator&logoColor=%4285F4&labelColor=black)
+![Google-Search](https://img.shields.io/badge/Google•Search-4285F4?style=for-the-badge&logo=GoogleSearchConsole&logoColor=%4285F4&labelColor=black)
+![Resend](https://img.shields.io/badge/resend-000000?style=for-the-badge&logo=Resend&logoColor=white&labelColor=black&color=eaeaea)
 ![Node](https://img.shields.io/badge/node-5FA04E?style=for-the-badge&logo=Node.js&logoColor=%235FA04E&labelColor=black)
 ![React](https://img.shields.io/badge/React-f?style=for-the-badge&logo=React&logoColor=%2361DAFB&labelColor=%23000000&color=%2361DAFB)
 ![Next](https://img.shields.io/badge/Next-f?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black&color=eaeaea)
