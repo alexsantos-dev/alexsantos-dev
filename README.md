@@ -1,16 +1,23 @@
-## About me
-Hello, Alex here. I'm Brazilian, I'm 20 years old and I'm a full stack web developer. Always focused on planning and delivering efficient solutions with a focus on software quality and cost reduction for my clients.
+## 👋 Bem-vindo ao meu GitHub!
 
-Currently I have been improving my skills with Next, React Testing Library, Jest and Cypress.
+Este repositório reflete meu compromisso com Consistência, Autenticidade e Inovação, pilares que guiam minha atuação como desenvolvedor fullstack.
 
-Feel free to explore my repositories! 👨‍💻💻
+Com experiência consolidada em React, Next.js, Nest.js, Express, Typescript e Javascript, aplico soluções técnicas de alto nível tanto no frontend quanto no backend. Minha abordagem é focada em entregas eficientes e escaláveis, utilizando tecnologias como MongoDB, PostgreSQL, e ferramentas como Jest e Cypress para garantir qualidade e automação nos processos.
 
-## Languages
+Principais áreas de atuação e interesse:
+
+Integrações seguras: OAuth, SMTP e APIs diversas;
+Soluções otimizadas: SEO, CMS e arquiteturas voltadas para desempenho;
+Monetização e pagamentos: Implementações confiáveis e robustas;
+CI/CD pipelines: Fluxos de entrega contínua que maximizam eficiência.
+Cada projeto é desenvolvido com foco em impacto e inovação, refletindo uma visão estratégica voltada para resultados sólidos. Estou em constante evolução, expandindo minhas competências e construindo a base para uma futura startup que une tecnologia e propósito.
+
+## Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-f?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=%23000000&color=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-f?style=for-the-badge&logo=TypeScript&logoColor=%233178C6&labelColor=%23000000&color=%233178C6)
 </br>
 
-## Technologies
+## Tecnologias
 ![Node](https://img.shields.io/badge/node-5FA04E?style=for-the-badge&logo=Node.js&logoColor=%235FA04E&labelColor=black)
 ![React](https://img.shields.io/badge/React-f?style=for-the-badge&logo=React&logoColor=%2361DAFB&labelColor=%23000000&color=%2361DAFB)
 ![Next](https://img.shields.io/badge/Next-f?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black&color=eaeaea)
@@ -30,7 +37,7 @@ Feel free to explore my repositories! 👨‍💻💻
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-f?style=for-the-badge&logo=Github%20Actions&logoColor=%232088FF&labelColor=%23000000&color=%232088FF)
 </br>
 
-## Statistics and Viewers
+## Visitantes
 
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/alexsantos-dev/count.svg" />
