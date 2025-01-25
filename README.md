@@ -1,6 +1,6 @@
 ## 👋 Bem-vindo ao meu GitHub!
 
-# Acompanhe meu ultimo trabalho como desenvolvedor fullstack freelancer: https://www.glauberkomics.site/dashboard/comics
+# Acompanhe meu trabalho mais recente como desenvolvedor fullstack freelancer: https://www.glauberkomics.site/dashboard/comics
 
 Este repositório reflete meu compromisso com Autenticidade, Consistência e Inovação, pilares que guiam minha atuação como desenvolvedor fullstack.
 
