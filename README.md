@@ -1,18 +1,8 @@
 ## 👋 Bem-vindo ao meu GitHub!
 
-# Acompanhe meu trabalho mais recente como desenvolvedor fullstack freelancer: https://www.glauberkomics.site/dashboard/comics
+# Acompanhe meu trabalho mais recente como desenvolvedor fullstack freelancer: <a target="_blank" href="https://www.glauberkomics.site/dashboard/comics">acesse</a>
 
-Este repositório reflete meu compromisso com Autenticidade, Consistência e Inovação, pilares que guiam minha atuação como desenvolvedor fullstack.
-
-Com experiência consolidada em React, Next.js, Nest.js, Express, Typescript e Javascript, aplico soluções técnicas de alto nível tanto no frontend quanto no backend. Minha abordagem é focada em entregas eficientes e escaláveis, utilizando tecnologias como MongoDB, PostgreSQL, e ferramentas como Jest e Cypress para garantir qualidade e automação nos processos.
-
-Principais áreas de atuação e interesse:
-
-Integrações seguras: OAuth, SMTP e APIs diversas;
-Soluções otimizadas: SEO, CMS e arquiteturas voltadas para desempenho;
-Monetização e pagamentos: Implementações confiáveis e robustas;
-CI/CD pipelines: Fluxos de entrega contínua que maximizam eficiência.
-Cada projeto é desenvolvido com foco em impacto e inovação, refletindo uma visão estratégica voltada para resultados sólidos. Estou em constante evolução, expandindo minhas competências e construindo a base para uma futura startup que une tecnologia e propósito.
+Olá, me chamo Alex, tenho 21 anos e venho trabalhando como desenvolvedor fullstack freelancer há quase 2 anos. Meu objetivo é transformar as ideias dos meus clientes em soluções de software eficientes, conforme suas demandas. Tenho experiência com levantamento de requisitos, testes unitários, testes de integração e E2E com Jest e Cypress, pipelines de CI/CD automatizados com Github Actions, Bancos de dados Sql e NoSql como Postgres, MongoDB e Sqlite, Stripe como serviço de pagamentos, SMTP com Resend, Gerenciamento de conteúdo com DatoCMS e Desenvolvimento web e mobile com React, Next.js, Express, Nest.js e React Native. Faço o acompanhamento completo desde as reuniões com meus clientes até a entrega final do software em produção. Além disso, também estou disposto a assumir posições de liderança quando necessário.
 
 ## Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-f?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=%23000000&color=%23F7DF1E)
