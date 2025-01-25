@@ -1,6 +1,8 @@
 ## 👋 Bem-vindo ao meu GitHub!
 
-# Acompanhe meu trabalho mais recente como desenvolvedor fullstack freelancer: <a target="_blank" href="https://www.glauberkomics.site/dashboard/comics">acesse</a>
+## 🤝 Acompanhe meu trabalho mais recente como desenvolvedor fullstack freelancer: <a target="_blank" href="https://www.glauberkomics.site/dashboard/comics">acessar</a>
+
+## 📕 Acesse meu portfólio: <a target="_blank" href="https://alexsantos-portfolio.vercel.app/">acessar</a>
 
 Olá, me chamo Alex, tenho 21 anos e venho trabalhando como desenvolvedor fullstack freelancer há quase 2 anos. Meu objetivo é transformar as ideias dos meus clientes em soluções de software eficientes, conforme suas demandas. Tenho experiência com levantamento de requisitos, testes unitários, testes de integração e E2E com Jest e Cypress, pipelines de CI/CD automatizados com Github Actions, Bancos de dados Sql e NoSql como Postgres, MongoDB e Sqlite, Stripe como serviço de pagamentos, SMTP com Resend, Gerenciamento de conteúdo com DatoCMS e Desenvolvimento web e mobile com React, Next.js, Express, Nest.js e React Native. Faço o acompanhamento completo desde as reuniões com meus clientes até a entrega final do software em produção. Além disso, também estou disposto a assumir posições de liderança quando necessário.
 
