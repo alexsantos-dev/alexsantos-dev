@@ -1,5 +1,7 @@
 ## 👋 Bem-vindo ao meu GitHub!
 
+Acompanhe meu ultimo trabalho como desenvolvedor fullstack freelancer: https://www.glauberkomics.site/dashboard/comics
+
 Este repositório reflete meu compromisso com Autenticidade, Consistência e Inovação, pilares que guiam minha atuação como desenvolvedor fullstack.
 
 Com experiência consolidada em React, Next.js, Nest.js, Express, Typescript e Javascript, aplico soluções técnicas de alto nível tanto no frontend quanto no backend. Minha abordagem é focada em entregas eficientes e escaláveis, utilizando tecnologias como MongoDB, PostgreSQL, e ferramentas como Jest e Cypress para garantir qualidade e automação nos processos.
