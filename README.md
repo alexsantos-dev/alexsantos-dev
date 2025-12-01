@@ -1,6 +1,6 @@
 ## 👋 Welcome!
 
-Hello, my name is Alex, working as full-stack developer for over 2 years and currently part of a high performance team, participating on development of web systems and cross-platform applications.
+Hello, my name is Alex, working as full-stack developer for over 3 years and currently part of a high performance team, participating on development of web systems and cross-platform applications.
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-f?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=%23000000&color=%23F7DF1E)
